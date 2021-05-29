@@ -9,7 +9,7 @@
 <img align="center" alt="karlla-linkedin" height="30"  width="30" src="https://image.flaticon.com/icons/png/128/174/174857.png" style="max-width:100%;">
 </a>
 <a href="https://www.instagram.com/karllanascimento/" target="_blank">
-<img align="center" alt="diego-instagram" height="30" width="30" src="https://image.flaticon.com/icons/png/128/174/174855.png" style="max-width:100%;">
+<img align="center" alt="karlla-instagram" height="30" width="30" src="https://image.flaticon.com/icons/png/128/174/174855.png" style="max-width:100%;">
 </a>
 
 ## My Skills:
