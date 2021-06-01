@@ -18,6 +18,8 @@
 <img align="center" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width:100%;"></img>
 <img align="center" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="max-width:100%;"></img>
 <img align="center" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" style="max-width:100%;"></img>
+<img align="center" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" style="max-width:100%;"></img>
+
 
 ![Karlla's GitHub stats](https://github-readme-stats.vercel.app/api?username=karllanascimento&show_icons=true&theme=radical)
 
